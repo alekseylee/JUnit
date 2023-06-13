@@ -1,3 +1,5 @@
+package org.example;
+
 public class ArrayUtils {
     public static int findMinNumber(int[] numbers) {
         if (numbers.length == 0) {
